@@ -9,7 +9,7 @@ Esse site é para o projeto agrinho que tem como tema campo e seus meios de tecn
 -Css:estilização
 
 # Arquiivos
--index.html: paginá pricipal com os conteúdos e seções.
+-index.html: paginá principal com os conteúdos e seções.
 -style.css: estilo visual com cores, fontes e layout.
 
 # Cabeçalho (header)
